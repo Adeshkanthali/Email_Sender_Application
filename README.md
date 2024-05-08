@@ -1,13 +1,17 @@
 # Email_Sender_Application
 
 ## Overview
-These Email Sender Application combines React.js for the frontend and Spring Boot for the backend. React.js facilitates building dynamic user interfaces, while Spring Boot simplifies backend development with features like RESTful APIs and database integration.
+These Email Sender Application combines React.js for the frontend and Spring Boot for the backend. React.js facilitates building dynamic user interfaces, while Spring Boot simplifies backend development with features like RESTful APIs .
+
+## Features
+* Compose Emails: Users can compose emails with customizable content, including recipients, subject, and body.
+* Send Emails: Functionality to send emails securely using integration with email sending libraries.
+* Responsive UI: Utilizes React.js for building a responsive user interface for seamless user experience across devices.
+* RESTful APIs: Implements RESTful APIs using Spring Boot for communication between frontend and backend components.
 
 ## Technologies Used
 * Frontend :- HTML, CSS, JavaScript, React.js
-* Backend :- Java, Springboot
-* Database :- Postgresql
-
+* Backend :- Java, Spring Boot
 
 ## Home Page
 ![133](https://github.com/Adeshkanthali/Email_Sender_Application/assets/92244882/14ab22f7-bcef-4efa-b18f-2b5438fc1210)
